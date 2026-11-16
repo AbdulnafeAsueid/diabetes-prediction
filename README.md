@@ -198,7 +198,6 @@ The Space installs the requirements and starts the app automatically.
 
 ## Authors
 
-Group 7:
 
 - **Abdulelah Hesham Shewoil**: random forest models.
 - **Mohammed Rumaan**: SVM models (linear, SGD, Nystroem) and the Hugging Face deployment.
