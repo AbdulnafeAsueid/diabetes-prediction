@@ -1,0 +1,14 @@
+# dataset (download it from Kaggle, see data/README.md)
+data/*.csv
+
+# generated files
+outputs/
+models/
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
